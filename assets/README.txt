@@ -1,7 +1,5 @@
 Use the Launch.bat file to launch the program
 
-(!WARNING!) Deleting any files from the lib or assets folder will make the program unusable
-
 Input Controls:
 	Esc: End Program
 	
@@ -24,14 +22,13 @@ Input Controls:
 	Equals: Create New Body
 	Minus:  Delete Previous Body
 
+	Enter:     Create Static Body
+	Backspace: Delete Static Body
+
 	Scroll: World Zoom
 
 UI Control Menu:
-    Any texts with a grey background is editable with left click
-
 	~ + T: Toggle Menu Active
 	~ + R: Reset Menu Position
-  ~ + 1: Previous Tab
-  ~ + 2: Next Tab
-
-	Left Click (HOLD): Move Menu With Mouse
+  	~ + 1: Previous Tab
+ 	~ + 2: Next Tab
