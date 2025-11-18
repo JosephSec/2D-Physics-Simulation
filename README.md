@@ -59,3 +59,4 @@ View the Move Time to see how long it took to Simulate and apply the physics of 
 Also view how many thread are being used by the program.
 
 Also Comes with a extra Fill Screen option to fill the screen with simulated points for and extra, fun option.
+Press the "U" key to spawn 1000 simulated bodies with random directions, also for fun.
